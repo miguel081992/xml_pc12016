@@ -1,0 +1,152 @@
+@charset "UTF-8"; 
+*{
+	margin:0;
+	padding:75; 
+}
+
+/* diseño general */
+
+
+body {
+   
+	 font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	 line-height:1.3em;  
+	 background:#E6E6E6; 
+}
+
+
+header{
+	width:100%;
+	background:#911F27; 
+	color:#FFF; 
+	padding-top:1em; 
+	padding-bottom:1em; 
+	
+}
+
+h1{
+	text-align:center; 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:1.5em; 
+}
+
+h2{
+	text-align:center; 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:1.0em; 
+}
+
+ol{
+	
+	list-style-type:decimal; 
+}
+ 
+p{
+	margin-left:10%; 
+	margin-right: 10%;
+	text-align:justify; 
+}
+
+/*Diseño tablas*/
+table{
+
+	margin-top: 50px;
+	border-color: black;
+	border-style:none;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+}
+
+td,th{
+	border:2px solid; 
+	padding-left:20px; 
+	padding-right: 20px; 
+	padding-top:10px; 
+	padding-bottom: 10px;
+	text-align: center;
+	
+}
+th{
+	background-color:#565454 ;
+	color:#FFF;
+	border-color: black;
+}
+
+footer{
+    width:100%;
+	background:#911F27; 
+	color:#FFF; 
+	padding-top:1em; 
+	padding-bottom:1em; 
+	position:fixed; 
+	bottom: 0;
+}
+
+
+aside{
+	width:30%;
+	float:right;
+	margin-left:20px;
+	margin-top:20px;
+}
+aside article{
+	width:90%;
+	background:#9D7373; 
+	color:#FFF; 
+	margin-bottom:50px;
+	border-bottom:dotted 1px #5e5c5c;
+	padding-bottom:20px;
+}
+
+#JPG{
+    width: 35%;
+    height: 35%;
+    display: block;
+    margin: auto;
+    
+}
+#mivideo{
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin: auto;
+}
+#titulo{
+    background: #565454 ;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+}
+#container{
+    width: 80%;
+    margin: 0px auto;
+    border: 1px solid rgb(26, 25, 25);
+}
+#encabezado{
+      background: #565454 ;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    line-height: 50px;
+}
+.article{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.article p{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.menu{
+    border:1px solid;
+    width:150px;
+    background:#FE642E;
+    margin-left:50px;
+    display:inline-block;
+  
+}
+
+
