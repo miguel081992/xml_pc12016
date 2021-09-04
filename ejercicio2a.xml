@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="ejercicio2a.css"?>
+<!-- ejemplo2.xml  PC12016 -->
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+  <cabecera>San Salvador</cabecera>
+  <habitantes>1,700,000</habitantes>
+  <altura>545 MSNM</altura>
+</departamento>
+<departamento id="1" nombre="Santa Ana">
+  <cabecera>Santa Ana</cabecera>
+  <habitantes>1,700,000</habitantes>
+  <altura>486 MSNM</altura>
+  <area>53km²</area>
+</departamento>
+<moneda>Dólar</moneda>
+<codtelefono>+503</codtelefono>
+<idioma>Español</idioma>
+</pais>

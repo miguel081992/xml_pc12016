@@ -1,0 +1,9 @@
+/* ejercicio1b.css   PC12016  */
+
+fichero {background-color:#46EB94;}
+ficha {background-color:#4B99EB; display:block;}
+nombre {color:white; display:inline;}
+apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}
+
+

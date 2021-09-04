@@ -1,0 +1,29 @@
+﻿<?xml-stylesheet type="text/css" href="ejercicio1b.css"?>
+<!-- ejemplo1.xml  PC12016 -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+  <nombre>Antonio</nombre>
+  <apellido>Barbero</apellido>
+  <direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="2/11/2012">
+  <nombre>Miguel</nombre>
+  <apellido>Peña</apellido>
+  <direccion>Calle Monserrat</direccion>
+  <telefono>72302364</telefono>
+  <email>pc12016@ues.edu.sv</email>
+  <website>Perfil de facebook: https://www.facebook.com/ml.ca.503/</website>
+  </ficha>
+  <ficha id="3" fechaingreso="2/11/2012">
+  <nombre>Enrique</nombre>
+  <apellido>Córdova</apellido>
+  <direccion>Calle Monserrat</direccion>
+  <telefono>72302364</telefono>
+  <email>pc12016@ues.edu.sv</email>
+  <website>Perfil de facebook: https://www.facebook.com/ml.ca.503/</website>
+  <dui>DUI: 047316772</dui>
+  <isss>ISSS: 12038534957</isss>
+  <afp>AFP: 234834955</afp>
+  
+  </ficha>
+</fichero>

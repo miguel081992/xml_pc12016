@@ -1,0 +1,10 @@
+/* ejemplo2.css   PC12016  */
+
+pais {background-color:gray;}
+departamento{background-color:#87CEEB; display:block;}
+cabecera {color:white; display:inline;}
+habitantes {color:black; display:inline;}
+altura {color:yellow;font-size:1.5cm; display:true;}
+
+
+
